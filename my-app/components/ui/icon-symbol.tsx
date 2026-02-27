@@ -23,6 +23,11 @@ const MAPPING = {
   'photo': 'photo-library',
   'xmark': 'close',
   'square.and.arrow.down': 'download',
+  'location': 'location-on',
+  'location.fill': 'location-on',
+  'exclamationmark.triangle': 'warning',
+  'play': 'play-arrow',
+  'pause': 'pause',
   'chevron.left.forwardslash.chevron.right': 'code',
   'chevron.right': 'chevron-right',
 } as IconMapping;
